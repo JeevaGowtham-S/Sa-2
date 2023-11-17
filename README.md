@@ -1,9 +1,6 @@
 # To Design and simulate the logic diagram using Verilog
 
-```
-NAME: YUVARAJ.S
-REGISTER NO: 212222240119
-```
+
 
 
 ### AIM: 
@@ -44,8 +41,8 @@ End the module.
 ### PROGRAM:
 ```
 Program to To Design and simulate the logic diagram using Verilog.
-Developed by: YUVARAJ.S
-RegisterNumber: 212222240119
+Developed by: JEEVAGOWTHAM S
+RegisterNumber: 212222230053
 
 ```
 ![image](https://github.com/Jaiganesh235/Q13/assets/118657189/e66dfc75-a7d1-4a7e-8a2f-9a094b9dcc3c)
