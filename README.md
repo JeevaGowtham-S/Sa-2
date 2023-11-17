@@ -1,8 +1,8 @@
 # To Design and simulate the logic diagram using Verilog
 
 ```
-NAME: PRIYANKA.A
-REGISTER NO: 212222230113
+NAME: S.JAIGANESH
+REGISTER NO: 212222240037
 ```
 
 
@@ -44,8 +44,8 @@ End the module.
 ### PROGRAM:
 ```
 Program to To Design and simulate the logic diagram using Verilog.
-Developed by: PRIYANKA.A
-RegisterNumber: 212222230113
+Developed by: S.JAIGANESH
+RegisterNumber: 212222240037
 
 ```
 ![image](https://github.com/Jaiganesh235/Q13/assets/118657189/e66dfc75-a7d1-4a7e-8a2f-9a094b9dcc3c)
